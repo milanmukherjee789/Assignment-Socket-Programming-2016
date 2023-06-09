@@ -1,4 +1,4 @@
-# Simple chat application using Mulithreaded Socket programming in C++
+# Simple chat application using Mulithreaded Socket programming in C++ 2016 part of assignment
 <h2>Objective : </h2>
 <p>
 	In this project there will be one server and multiple clients. Among those clients any two clients can chat with each other. Server will have a sqlite database into which all informations corresponfing those clients will be stored.
